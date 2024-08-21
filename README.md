@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bismarkagyare
-- 👀 I’m interested in becoming a web developer.
-- 🌱 I’m currently learning html3, css5, JavaScript and React.
-- 💞️ I’m looking to collaborate on projects with other developers.
+- 👋 Hi, I’m Bismark Frimpong Agyare
+- 🌱 I craft scalable, high-performance digital solutions designed
+     to deliver outstanding user experiences and accelerate business growth.
 - 📫 How to reach me is via email: bismarkagyare54@gmail.com
 
 <!---
