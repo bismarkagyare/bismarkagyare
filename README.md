@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bismark Frimpong Agyare
-- 🌱 I craft scalable, high-performance digital solutions designed
-     to deliver outstanding user experiences and accelerate business growth.
+- 🌱 Building stuff here & there
 - 📫 How to reach me is via email: bismarkagyare54@gmail.com
 
 <!---
